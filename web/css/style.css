@@ -1,0 +1,9 @@
+body.fondo {
+    background-color: rgb(235, 235, 235);
+}
+
+img.titulo{
+    display:block;
+	margin:auto;
+	width: 30%;
+}
