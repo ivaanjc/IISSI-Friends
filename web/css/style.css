@@ -7,3 +7,4 @@ img.titulo{
 	margin:auto;
 	width: 30%;
 }
+body.dark { background-color: #222222; color: #eeeeee; }
