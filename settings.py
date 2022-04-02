@@ -6,7 +6,7 @@
 DEBUG_ENABLED = False
 
 # Database connection details
-DB_CONN = {
+DB_COsiNN = {
     "host": "127.0.0.1",
     "port": 3306,
     "username": "iissi_user",

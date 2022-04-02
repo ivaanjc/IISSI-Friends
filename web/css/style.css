@@ -43,3 +43,16 @@ body{
 h3.pass{
   padding-top: 5%;
 }
+.grid{
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+img {
+  display: block;
+  margin:  auto;
+  max-width: 100%;
+  width: 50%;
+  margin-top: 15% ;
+  margin-bottom: 15% ;
+
+}
