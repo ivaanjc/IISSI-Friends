@@ -1,10 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Mansalva&display=swap');
 body.fondo {
     background-color: rgb(235, 235, 235);
 }
 
 img.titulo{
-    display:block;
+  display:block;
 	margin:auto;
 	width: 30%;
 }
 body.dark { background-color: #222222; color: #eeeeee; }
+
+.navbar .navbar-brand {
+  font-family: 'Mansalva', cursive;
+  font-size: 25px;
+}
+.ml-auto{
+  padding-right:50px;
+}
+
+#page-footer{
+  position:relative;
+  bottom:0;
+  width:100%;
+}
+body{
+  display:grid;
+  min-height:100vh;
+  grid-template-rows: auto 1fr auto;
+}
+.navbar .nav-item:not(:last-child) {
+  margin-right: 35px;
+}
+
+.dropdown-toggle::after {
+   transition: transform 0.15s linear;
+}
+
+.show.dropdown .dropdown-toggle::after {
+  transform: translateY(3px);
+}
+
+h3.pass{
+  padding-top: 5%;
+}

@@ -3,8 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    >
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="shortcut icon" href="images/registro.png" type="image/x-icon">
@@ -12,14 +11,15 @@
     <script src="js/libs/popper.min.js"></script>
     <script src="js/libs/bootstrap.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
-    <script src="js/utils/include.js"> </script>
+    <script src="js/utils/include.js"></script>
     <title>IISSI-Friends - Crea una cuenta</title>
     </head>
 
 <body class="fondo">
+    <div id="page-header"></div>
     <div class="container">
-        <img class="titulo" src="images/friends.png">
-        <hr>
+      <h3 class="pass">Rellena el formulario para crear una cuenta</h3>
+      <hr>
         <form action="POST">
                 <div class="col-md">
             <div class="form-group row"> <label for="username-input">Usuario:</label>
@@ -89,13 +89,17 @@
                 <textarea name="bio" class="form-control" rows="4" cols="40" placeholder="Háblanos sobre tí" required maxlength="1024"></textarea>
             </div>
         </div>
+        <div class="col-md">
         <div class="form-group row">
-        <input type="submit" value="Registrarme"></div>
+        <input type="submit" value="Registrarme"></div></div>
 
-            
+
 
 
         </form>
     </div>
+    <div id="page-footer"> </div>
+    <script> include("header.html", "#page-header"); </script>
+    <script> include("footer.html", "#page-footer"); </script>
 </body>
 </html>
