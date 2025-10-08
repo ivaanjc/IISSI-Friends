@@ -15,7 +15,6 @@ Con **IISSI-Friends**, conocer personas nunca fue tan fácil ni tan divertido.
 | **Diego Martín Rodríguez** | 💻 Desarrollador |
 | **Iván Jiménez Contrera** | 💻 Desarrollador |
 | **Samuel Fernández Roldán** | 💻 Desarrollador |
-| **Justo Puerto Delgado** | 💻 Desarrollador |
 
 ---
 
@@ -23,7 +22,7 @@ Con **IISSI-Friends**, conocer personas nunca fue tan fácil ni tan divertido.
 
 | Tipo | Tecnologías |
 |------|--------------|
-| **Frontend** | React, HTML5, CSS3, JavaScript |
+| **Frontend** | HTML5, CSS3, JavaScript |
 | **Backend** | Node.js, Express, Python |
 | **Base de datos** | MongoDB |
 | **Control de versiones** | Git, GitHub |
