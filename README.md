@@ -1,10 +1,11 @@
-COLABORADORES
+👥 Colaboradores
 
-DIEGO MARTIN RODRIGUEZ (PORTAVOZ)
-SAMUEL FERNANDEZ ROLDAN
-IVAN JIMENEZ CONTRERAS
-JUSTO PUERTO DELGADO
+Iván Jiménez Contrera (Portavoz)
 
-NIVEL DE EVALUACIÓN
+Diego Martín Rodríguez
 
-APROBADO
+Samuel Fernández Roldán
+
+Justo Puerto Delgado
+
+IISSI-Friends es una red social moderna diseñada para conectar personas y crear nuevas amistades.
